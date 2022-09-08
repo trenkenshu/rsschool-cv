@@ -3,6 +3,7 @@
 - **Name**: Oleg Trenkenshu
 - **Date of birth**: 01.08.1985
 - **Email**: trenkenshu@gmail.com
+- **City of residence**: Mins
 ### Education
 - **1992-2002** School education
 - **2002-2005** Unfinished higher education in UPI, Ekaterinburg
