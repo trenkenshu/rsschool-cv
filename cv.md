@@ -4,6 +4,7 @@
 - **Name**: Oleg Trenkenshu
 - **Date of birth**: 01.08.1985
 - **Email**: trenkenshu@gmail.com
+- **Discord**: trenkenshu #5166
 - **Phone**: +375 (29) 87 88 506
 - **City of residence**: Minsk
 ### Education
@@ -29,7 +30,7 @@ function sortOut(ar) {
     var indAnswer = 0;
     var answer = [];
     while (ind < ar.length) {
-      if (typeof ar[ind] == 'number' && ar[ind] > 0 ) {
+      if (typeof ar[ind] == 'number' && ar[ind] > 0) {
         answer[indAnswer] = ar[ind];
         indAnswer++;
       }
