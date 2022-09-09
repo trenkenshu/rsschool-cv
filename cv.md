@@ -22,7 +22,7 @@
 - Pre-junior **Git**
 - English at A2+
 ### Code example
-This function takes an array with arbitrary data and returns array with positive numbers sorted out of the initial array.
+This function takes an array with arbitrary data  and returns array with positive numbers sorted out of the initial array (excluding nested arrays).
 ```
 function sortOut(ar) {
   if (ar.constructor.name == 'Array') {
